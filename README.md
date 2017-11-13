@@ -1,9 +1,6 @@
 
 # Blather
 
-superuser: jffalcao
-password: Pass!123 (All users have the same password)
-
 Bookmark: Chapter 2 : Using Generic Views \ What Are Views?
 
 Based on the video tutorial: Learning Django Web Development, by Matthew Nuzum, PACKT Publishing, on Safari Tech Videos Online
